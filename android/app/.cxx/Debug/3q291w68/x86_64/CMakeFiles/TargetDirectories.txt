@@ -1,0 +1,2 @@
+/Users/idir/Desktop/testapp/BlogApp/android/app/.cxx/Debug/3q291w68/x86_64/CMakeFiles/edit_cache.dir
+/Users/idir/Desktop/testapp/BlogApp/android/app/.cxx/Debug/3q291w68/x86_64/CMakeFiles/rebuild_cache.dir

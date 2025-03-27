@@ -1,0 +1,1 @@
+/Users/idir/Desktop/testapp/BlogApp/build/app/intermediates/cxx/Debug/3q291w68/obj/arm64-v8a

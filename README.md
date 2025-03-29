@@ -4,6 +4,20 @@
 
 The purpose of this project was the design of a Basic Blog application using a UI toolkit for crafting apps for mobile, web, and desktop named Flutter. This project is supposed to execute the common functionality of any CRUD application. With, This Blog Application, at first you need to Sign-in or Sign-Up then you can create a blog by clicking on the (Create Blog) button shown on the home screen, and type, save and view, the data will be stored in firebase storage. Our blog app is an entire service It has the (My Blogs) option, which allows you to do things such as delete or update them in one place. You can make a collection of your favorite blogs, It is easy to use and a very light project.
 
+## Snapshot
+
+![image](https://user-images.githubusercontent.com/60839928/175298484-22ed93e2-b912-4052-9c39-aa6713d728ec.png)
+
+![image](https://user-images.githubusercontent.com/60839928/175298527-a7bfbcd3-144c-462e-9673-0d198f8c512f.png)
+
+![image](https://user-images.githubusercontent.com/60839928/175298589-c1ee3fa7-b01d-4059-8ce9-a825d28a9ebf.png)
+
+![image](https://user-images.githubusercontent.com/60839928/175350212-6c0bbb60-230f-4fbd-b145-e1367465e1bb.png)
+
+
+![image](https://user-images.githubusercontent.com/60839928/175298675-278ba731-89c4-4b2e-bf71-4234d58044f6.png)
+
+
 ### Development Tools
 
 Hardware and Software Requirements for Development –
@@ -69,20 +83,6 @@ There are many major motivations behind this project. One of them is getting our
 ### Working process
 
 ![image](https://user-images.githubusercontent.com/60839928/175297954-5b025040-c97f-44c7-ac72-528a95d1c908.png)
-
-
-## Snapshot
-
-![image](https://user-images.githubusercontent.com/60839928/175298484-22ed93e2-b912-4052-9c39-aa6713d728ec.png)
-
-![image](https://user-images.githubusercontent.com/60839928/175298527-a7bfbcd3-144c-462e-9673-0d198f8c512f.png)
-
-![image](https://user-images.githubusercontent.com/60839928/175298589-c1ee3fa7-b01d-4059-8ce9-a825d28a9ebf.png)
-
-![image](https://user-images.githubusercontent.com/60839928/175350212-6c0bbb60-230f-4fbd-b145-e1367465e1bb.png)
-
-
-![image](https://user-images.githubusercontent.com/60839928/175298675-278ba731-89c4-4b2e-bf71-4234d58044f6.png)
 
 
 ### Challenges
